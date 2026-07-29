@@ -1,3 +1,3 @@
-# 💫 About Me:
+# About Me:
 A student of data science and business analytics, with an interest in democratising accessibility and interpretability of data.
 <br><br>Completed my MS Business Administration in Business Analytics from Virginia Tech by May 2025. <br><br>Apart from academics and personal projects, I spend my time watching and playing soccer, basketball and american football. I am a recreational powerlifter (I lift heavy weights). Recently started playing the bass guitar. I also take interest in the world of watches and horology.<br><br> **Currently honing skills in:** <br>- Data pipelining using Python, dbt (ETL), Postgres, and Metabase (Visualisation).<br>- Generative AI and Multi-agent orchestration using LangGraph.
